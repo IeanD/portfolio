@@ -68,7 +68,7 @@ class App extends React.Component {
                     ) : null
                 }
                 {
-                    savedLocations[0] ? (
+                    this.state.savedLocations[0] ? (
                         <SavedLocations
                             savedLocations={this.state.savedLocations}
                             onSaveClick={(location) => this.searchForWeather(location)}
