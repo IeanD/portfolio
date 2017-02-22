@@ -1,7 +1,7 @@
 # portfolio
 ## Thanks for visiting!
 
-A sampling of websites made my Iean Drew.
+A sampling of websites and design work made my Iean Drew.
 
  - [Responsive Design Demo](https://ieand.github.io/responsive_demo/)
  - [Javascript Demo](https://ieand.github.io/javascript_demo/)
