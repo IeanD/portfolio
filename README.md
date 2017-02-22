@@ -1,7 +1,7 @@
 # portfolio
 ## Thanks for visiting!
 
-A sampling of websites and design work made my Iean Drew.
+A sampling of websites and design work made by Iean Drew (ieand@uw.edu).
 
  - [Responsive Design Demo](https://ieand.github.io/responsive_demo/)
   - A website advertising a revolutionary new product like you've never seen... the Pencil!
