@@ -14,6 +14,6 @@ A sampling of websites and design work made my Iean Drew.
  - [React Project Management Demo #1](https://ieand.github.io/react_PM_demo_1/index.html)
   - My first demo of project management experience. With the help of the wonderful Emily Ye, Emily Zhang and Esther Ohman, we build MovieSoup, a fun movie database website. eCommerce functions intentionally non-functional. PMed by myself.
  - [React/Webpack Project Management Demo #2](https://info343e-au16.github.io/team2-finale/index.html)
-  - With some practice under belts, Emily, Emily, Esther and I set out to create something we would actually use on a daily basis, and so Finito was born. Finito is an intentionally simple, visually pleasant to-do web app built using responsive design. Utilizes React and Webpack.
+  - With some practice under belts, Emily, Emily, Esther and I set out to create something we would actually use on a daily basis, and so Finito was born. Finito is an intentionally simple, visually pleasant to-do web app built using responsive design. Utilizes React and Webpack. PMed by me.
  - [Design Sampler](https://www.figma.com/file/MsVhisZHC0aBP542KweRLS36/IeanDrew_Design_Examples)
   - A sampling of my design work, utilizing the free tool Figma. Updated regularly!
